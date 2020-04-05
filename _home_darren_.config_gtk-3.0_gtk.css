@@ -1,0 +1,16 @@
+/*
+https://developer.gnome.org/gtk3/stable/chap-css-properties.html
+*/
+
+* {
+  box-shadow: none;
+  text-shadow: none;
+  -gtk-icon-shadow: none;
+}
+
+
+
+.window-frame {
+  box-shadow: none;
+  /*margin: 0;*/
+}
