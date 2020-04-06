@@ -10,20 +10,6 @@ See also [xorg](https://github.com/Un1Gfn/xorg)
 * [redshift-wayland-git](https://aur.archlinux.org/packages/redshift-wayland-git)
 * [Chromium Ozone](https://wiki.automotivelinux.org/_media/agl-distro/agl_chromium_preso.pdf)
 
-./.gtkrc-2.0.bak
-./.gtkrc.tmp-0
-./.config/gtk-3.0
-
-./.gtkrc-2.0
-./gtk
-
-
-/home/darren/.config/gtk-3.0/bookmarks
-```
-file:///home/darren/db/exp01
-file:///tmp tmp
-[...]
-```
 
 /home/darren/.bashrc
 ```bash
