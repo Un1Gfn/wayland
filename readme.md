@@ -2,6 +2,7 @@ See also [xorg](https://github.com/Un1Gfn/xorg)
 
 ---
 
+* [Graphical sudo](https://unix.stackexchange.com/questions/422040/will-wayland-ever-support-graphical-sudo)
 * [Wayland](https://wayland.freedesktop.org/)
   * [Archwiki](https://wiki.archlinux.org/index.php/Wayland)
 * [Sway](https://swaywm.org/)
