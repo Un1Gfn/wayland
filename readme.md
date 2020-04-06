@@ -10,6 +10,10 @@ See also [xorg](https://github.com/Un1Gfn/xorg)
 * [redshift-wayland-git](https://aur.archlinux.org/packages/redshift-wayland-git)
 * [Chromium Ozone](https://wiki.automotivelinux.org/_media/agl-distro/agl_chromium_preso.pdf)
 
+/home/darren/.bash_aliases
+```
+alias sway='sway >>/home/darren/.config/sway/log 2>&1'
+```
 
 /home/darren/.bashrc
 ```bash
